@@ -1,0 +1,15 @@
+C:\Users\Cliente\Desktop\atvManseira\bin\Debug\net6.0\atvManseira.exe
+C:\Users\Cliente\Desktop\atvManseira\bin\Debug\net6.0\atvManseira.deps.json
+C:\Users\Cliente\Desktop\atvManseira\bin\Debug\net6.0\atvManseira.runtimeconfig.json
+C:\Users\Cliente\Desktop\atvManseira\bin\Debug\net6.0\atvManseira.dll
+C:\Users\Cliente\Desktop\atvManseira\bin\Debug\net6.0\atvManseira.pdb
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.csproj.AssemblyReference.cache
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.dll
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\refint\atvManseira.dll
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.pdb
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\atvManseira.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\atvManseira\obj\Debug\net6.0\ref\atvManseira.dll
