@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cliente\\Desktop\\atvManseira\\atvManseira.csproj": {}
+    "C:\\Users\\pedro.costa\\Desktop\\atvManseira-main\\atvManseira.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cliente\\Desktop\\atvManseira\\atvManseira.csproj": {
+    "C:\\Users\\pedro.costa\\Desktop\\atvManseira-main\\atvManseira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cliente\\Desktop\\atvManseira\\atvManseira.csproj",
+        "projectUniqueName": "C:\\Users\\pedro.costa\\Desktop\\atvManseira-main\\atvManseira.csproj",
         "projectName": "atvManseira",
-        "projectPath": "C:\\Users\\Cliente\\Desktop\\atvManseira\\atvManseira.csproj",
-        "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cliente\\Desktop\\atvManseira\\obj\\",
+        "projectPath": "C:\\Users\\pedro.costa\\Desktop\\atvManseira-main\\atvManseira.csproj",
+        "packagesPath": "C:\\Users\\pedro.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro.costa\\Desktop\\atvManseira-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\pedro.costa\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
